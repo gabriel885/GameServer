@@ -1,0 +1,10 @@
+.idea/**
+.settings/**
+.vscode
+gamingServer.iml
+frontend/dist
+frontend/node_modules/**
+frontend/node
+backend/target
+backend/src/main/resources/public
+
